@@ -52,22 +52,3 @@ Bemenet 	Kimenet
 Időlimit: 0. 1 mp.
 
 Memórialimit: 32 MiB
-
-
-Évfolyam ZH
-
-2. oldal
-
-## Értékelés
-
-### Értékelés 10 teszt-adatfájl alapján:
-
-Összpont: **10*( 1 + 2 + 3 + 4 )=10*1 0 =1 0 0 pont**
-
-```
-Alsópont: 40 55 70 85
-```
-```
-Jegy: 2 3 4 5
-```
-
