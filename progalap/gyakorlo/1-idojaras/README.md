@@ -37,7 +37,7 @@ mokat növekvő sorrendben) egy-egy szóközzel elválasztva!
 ## Példa
 
 ```
-Bemenet Kimenet
+Bemenet 	Kimenet
 6 		#
 - 5 5 		4
 0 10 		#
