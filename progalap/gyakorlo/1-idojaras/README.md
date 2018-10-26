@@ -39,12 +39,12 @@ mokat növekvő sorrendben) egy-egy szóközzel elválasztva!
 ```
 Bemenet Kimenet
 6 		#
-- 5 5 	4
-0 10 	#
-- 5 - 3 1
-- 5 0 	#
-2 10 	3
-10 13 	#
+- 5 5 		4
+0 10 		#
+- 5 - 3 	1
+- 5 0 		#
+2 10 		3
+10 13 		#
 		2 1 2
 ```
 ## Korlátok
