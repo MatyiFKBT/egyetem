@@ -6,4 +6,4 @@
 | 4.hét |  |  |  |
 | 5.hét |  |  |  |
 | 6.hét |  |  |  |
-| 7.hét | 10.24 | https://SzamRend1024.matyi.repl.run | https://repl.it/@matyi/SzamRend1024 |
+| 7.hét | 10.24 | <button class="button-save large">[Link](https://SzamRend1024.matyi.repl.run)</button> | https://repl.it/@matyi/SzamRend1024 |
