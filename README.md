@@ -132,7 +132,7 @@ http://ikhok.elte.hu/?old=sorompo
 
 ## Ingyen cuccok
 
-bit.ly/MS-Imagine-IK
+https://bit.ly/MS-Imagine-IK
 itt oprendszerek, meg fejlesztői szarok, az inf-es email címetekkel tudtok bejelentkezni
 
 az office-t le tudjátok tölteni a mail.inf.elte.hu-n haa bejelentkeztek office 365 bal felső sarok
