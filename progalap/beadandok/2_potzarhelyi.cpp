@@ -20,7 +20,6 @@ int main()
                 lista.push_back(i+1);
             }
         }
-        
     }
     cout << darab << endl;
     for (const auto& e : lista) {
