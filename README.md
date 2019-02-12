@@ -63,14 +63,6 @@
 <td align="center"></td>
 <td align="center"></td>
 </tr>
-<tr>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
 </tbody>
 </table><p><a href="https://hallgato.neptun.elte.hu/cal/cal.ashx?id=00FC8D3C78B74F112038936A1904DE48E6A98272D7B270C90D129754665EC7482B061661E3833FAF.ics">Naptárba importálható .ics letöltés</a><br>
 <em>nem mindenkinek ugyanaz az órarendje, ez a mintatanterv szerinti</em></p>
