@@ -34,9 +34,10 @@ http://numanal.inf.elte.hu/~csorgo/matalapok_evf
 - bármilyen papír alapú segédeszköz használható
 
 ## Webfejlesztés I.
-- http://bit.ly/webfejlesztes1
+- [Google Drive mappa](bit.ly/webfejlesztes1)
 - Canvasban le vannak írva a beadandók, határidők, illetve a segédanyagok
-- 
+- http://webfejlesztes.inf.elte.hu/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU0MjU4ODcsMTMyMjUyODI5Nl19
+eyJoaXN0b3J5IjpbMTg0MTQwMzIzOCwtMTAyNTQyNTg4NywxMz
+IyNTI4Mjk2XX0=
 -->
