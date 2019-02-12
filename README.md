@@ -35,8 +35,8 @@ http://numanal.inf.elte.hu/~csorgo/matalapok_evf
 
 ## Webfejlesztés I.
 - http://bit.ly/webfejlesztes1
-- Canvasban le vannak írva a beadandók, illetve a segédanyagok
+- Canvasban le vannak írva a beadandók, határidők, illetve a segédanyagok
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjUyODI5Nl19
+eyJoaXN0b3J5IjpbLTEwMjU0MjU4ODcsMTMyMjUyODI5Nl19
 -->
