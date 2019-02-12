@@ -10,7 +10,69 @@
 <li><a href="#tov%C3%A1bbi-hasznos-linkek">Hasznos Linkek (Ábris féle)</a></li>
 </ul>
 <h1 id="órarend">Órarend</h1>
-<p><a href="https://hallgato.neptun.elte.hu/cal/cal.ashx?id=00FC8D3C78B74F112038936A1904DE48E6A98272D7B270C90D129754665EC7482B061661E3833FAF.ics">Naptárba importálható .ics letöltés</a><br>
+
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">Hétfő</th>
+<th align="center">Kedd</th>
+<th align="center">Szerda</th>
+<th align="center">Csütörtök</th>
+<th align="center">Péntek</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">8-10</td>
+<td align="center"><a href="#web">Webfejlesztés</a> EA</td>
+<td align="center"><a href="#obj">Objektumelvű programozás</a> Táblás GY</td>
+<td align="center"><a href="#dm1">Diszkrét Matematika I.</a> EA</td>
+<td align="center"><a href="#pny2">Programozási Nyelvek II.</a></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">10-12</td>
+<td align="center"><a href="#obj">Objektumelvű programozás</a> EA</td>
+<td align="center"></td>
+<td align="center"><a href="#alg">Algoritmusok és Adatszerkezetek I.</a> EA</td>
+<td align="center"><a href="#pny1">Programozási Nyelvek I.</a></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">12-14</td>
+<td align="center"><a href="#anal">Analízis I.</a> EA</td>
+<td align="center"><a href="#pny1">Programozási Nyelvek I.</a> GY</td>
+<td align="center"><a href="#anal">Analízis I.</a> GY</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">14-16</td>
+<td align="center"></td>
+<td align="center"><a href="#web">Webfejlesztés</a> GY</td>
+<td align="center"><a href="#alg">Algoritmusok és Adatszerkezetek I.</a> GY</td>
+<td align="center"><a href="#obj">Objektumelvű programozás</a> Gép GY</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">16-18</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="#dm1">Diszkrét Matematika I.</a> GY</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table><p><a href="https://hallgato.neptun.elte.hu/cal/cal.ashx?id=00FC8D3C78B74F112038936A1904DE48E6A98272D7B270C90D129754665EC7482B061661E3833FAF.ics">Naptárba importálható .ics letöltés</a><br>
 <em>nem mindenkinek ugyanaz az órarendje, ez a mintatanterv szerinti</em></p>
 <h1 id="tárgyak">Tárgyak</h1>
 <h2 id="matematikai-alapok">Matematikai alapok</h2>
