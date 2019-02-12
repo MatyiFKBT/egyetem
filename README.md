@@ -27,3 +27,6 @@
 
 ## Matematikai alapok
 ## Objektumelvű programozás
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzkyNTgyMDQ5XX0=
+-->
