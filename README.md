@@ -121,3 +121,6 @@ itt oprendszerek, meg fejlesztői szarok, az inf-es email címetekkel tudtok bej
 <p>Mosi, hozzá tartozik messengeren a bogyó csetecske, itt tagok vagytok?</p>
 <p>Szoldatics József: péntek 13-16 D-0.820</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzk5NDk4NDM2XX0=
+-->
