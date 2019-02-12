@@ -26,7 +26,16 @@
 # Tárgyak
 
 ## Matematikai alapok
+http://numanal.inf.elte.hu/~csorgo/matalapok_evf
 ## Objektumelvű programozás
+- 3 hétnél többet nem lehet késni a beadandókkal  
+- 4/3 zh-nak sikerülnie kell  
+- [people.inf.elte.hu/gt/oep](http://people.inf.elte.hu/gt/oep)  
+- bármilyen papír alapú segédeszköz használható
+
+## Webfejlesztés I.
+- http://bit.ly/webfejlesztes1
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNTgyMDQ5XX0=
+eyJoaXN0b3J5IjpbLTEyMDc0NzA1MzBdfQ==
 -->
