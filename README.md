@@ -150,5 +150,5 @@ itt oprendszerek, meg fejlesztői szarok, az inf-es email címetekkel tudtok bej
 <p>Szoldatics József: péntek 13-16 D-0.820</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjEzNzI3N119
+eyJoaXN0b3J5IjpbMTk5NjYzMjA3NV19
 -->
