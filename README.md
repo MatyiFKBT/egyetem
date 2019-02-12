@@ -17,113 +17,14 @@
 </ul>
 <h1 id="órarend">Órarend</h1>
 
-<table>
+||Hétfő|Kedd|Szerda|Csütörtök|Péntek|
+|--- |--- |--- |--- |--- |--- |
+|8-10|[Webfejlesztés](#web) EA|[Objektumelvű programozás](#obj) Táblás GY|[Diszkrét Matematika I.](#dm1) EA|[Programozási Nyelvek II.](#pny2)||
+|10-12|[Objektumelvű programozás](#obj) EA||[Algoritmusok és Adatszerkezetek I.](#alg) EA|[Programozási Nyelvek I.](#pny1)||
+|12-14|[Analízis I.](#anal) EA|[Programozási Nyelvek I.](#pny1) GY|[Analízis I.](#anal) GY|||
+|14-16||[Webfejlesztés](#web) GY|[Algoritmusok és Adatszerkezetek I.](#alg) GY|[Objektumelvű programozás](#obj) Gép GY||
+|16-18|||[Diszkrét Matematika I.](#dm1) GY|||
 
-<thead>
-
-<tr>
-
-<th align="center"></th>
-
-<th align="center">Hétfő</th>
-
-<th align="center">Kedd</th>
-
-<th align="center">Szerda</th>
-
-<th align="center">Csütörtök</th>
-
-<th align="center">Péntek</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td align="center">8-10</td>
-
-<td align="center">[<a href="#web">Webfejlesztés](#web)</a> EA</td>
-
-<td align="center">[<a href="#obj">Objektumelvű programozás](#obj)</a> Táblás GY</td>
-
-<td align="center">[<a href="#dm1">Diszkrét Matematika I.](#dm1)</a> EA</td>
-
-<td align="center">[<a href="#pny2">Programozási Nyelvek II.](#pny2)</a></td>
-
-<td align="center"></td>
-
-</tr>
-
-<tr>
-
-<td align="center">10-12</td>
-
-<td align="center">[<a href="#obj">Objektumelvű programozás](#obj)</a> EA</td>
-
-<td align="center"></td>
-
-<td align="center">[<a href="#alg">Algoritmusok és Adatszerkezetek I.](#alg)</a> EA</td>
-
-<td align="center">[<a href="#pny1">Programozási Nyelvek I.](#pny1)</a></td>
-
-<td align="center"></td>
-
-</tr>
-
-<tr>
-
-<td align="center">12-14</td>
-
-<td align="center">[<a href="#anal">Analízis I.](#anal)</a> EA</td>
-
-<td align="center">[<a href="#pny1">Programozási Nyelvek I.](#pny1)</a> GY</td>
-
-<td align="center">[<a href="#anal">Analízis I.](#anal)</a> GY</td>
-
-<td align="center"></td>
-
-<td align="center"></td>
-
-</tr>
-
-<tr>
-
-<td align="center">14-16</td>
-
-<td align="center"></td>
-
-<td align="center">[<a href="#web">Webfejlesztés](#web)</a> GY</td>
-
-<td align="center">[<a href="#alg">Algoritmusok és Adatszerkezetek I.](#alg)</a> GY</td>
-
-<td align="center">[<a href="#obj">Objektumelvű programozás](#obj)</a> Gép GY</td>
-
-<td align="center"></td>
-
-</tr>
-
-<tr>
-
-<td align="center">16-18</td>
-
-<td align="center"></td>
-
-<td align="center"></td>
-
-<td align="center">[<a href="#dm1">Diszkrét Matematika I.](#dm1)</a> GY</td>
-
-<td align="center"></td>
-
-<td align="center"></td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 [Naptárba importálható .ics letöltés](<p><a href="https://hallgato.neptun.elte.hu/cal/cal.ashx?id=00FC8D3C78B74F112038936A1904DE48E6A98272D7B270C90D129754665EC7482B061661E3833FAF.ics)  
 _">Naptárba importálható .ics letöltés</a><br>
