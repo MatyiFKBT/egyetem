@@ -9,13 +9,7 @@
 *   [Tárgyak](#t%C3%A1rgyak)
 *   [Hasznos Linkek (Ábris féle)](#tov%C3%A1bbi-hasznos-linkek)
 
-# <h2 id="tartalomjegyzék">Tartalomjegyzék</h2>
-<ul>
-<li><a href="#%C3%93rarend">Órarend</a></li>
-<li><a href="#t%C3%A1rgyak">Tárgyak</a></li>
-<li><a href="#tov%C3%A1bbi-hasznos-linkek">Hasznos Linkek (Ábris féle)</a></li>
-</ul>
-<h1 id="órarend">Órarend</h1>
+# Órarend
 
 ||Hétfő|Kedd|Szerda|Csütörtök|Péntek|
 |--- |--- |--- |--- |--- |--- |
