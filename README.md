@@ -71,7 +71,6 @@
 <ul>
 <li><a href="http://numanal.inf.elte.hu/~csorgo/matalapok_evf">http://numanal.inf.elte.hu/~csorgo/matalapok_evf</a></li>
 </ul>
-<p>#obj</p>
 <h2 id="objektumelvű-programozás">Objektumelvű programozás</h2>
 <ul>
 <li>3 hétnél többet nem lehet késni a beadandókkal</li>
